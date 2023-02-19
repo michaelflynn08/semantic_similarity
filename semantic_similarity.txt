@@ -1,0 +1,1 @@
+# when we run the example file with sm instead of m d the similarity numbers are alot lower they are alot closer to 0.
